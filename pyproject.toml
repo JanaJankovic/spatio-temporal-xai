@@ -19,6 +19,7 @@ dependencies = [
     "kaleido>=1.2.0",
     "altair>=6.0.0",
     "vl-convert-python>=1.9.0.post1",
+    "torchinfo>=1.8.0",
 ]
 
 [[tool.uv.index]]
